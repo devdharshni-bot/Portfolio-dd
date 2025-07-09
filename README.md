@@ -3,7 +3,7 @@
 
 Welcome to the source code for my personal portfolio website — a modern, responsive, and fully customizable developer portfolio built using cutting-edge technologies.
 
-🌐 **Live Site**: [Portfolio](https://portfolio-dd-eight.vercel.app)
+🌐 **Live Site**: [Portfolio](https://portfolio-dd-bay.vercel.app/)
 
 ---
 

@@ -56,4 +56,3 @@ I'm A M Dev Dharshni, a passionate Information Technology student with a creativ
 
 This project is open source and available under the [MIT License](LICENSE).
 
-```
